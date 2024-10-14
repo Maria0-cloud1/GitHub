@@ -1,0 +1,13 @@
+[bpdp@bpdp-arch bab2]$ git init
+Initialized empty Git repository in /home/bpdp/kerjaan/modul-
+praktikum/sqa/bab2/.git/
+[bpdp@bpdp-arch bab2]$ ls -la
+total 28
+drwxr-xr-x 6 bpdp users 4096 2009-10-09 05:12 .
+drwxr-xr-x 9 bpdp users 4096 2009-10-09 05:06 ..
+drwxr-xr-x 7 bpdp users 4096 2009-10-09 05:12 .git
+-rw-r--r-- 1 bpdp users 1785 2009-10-09 05:07 build.xml
+drwxr-xr-x 4 bpdp users 4096 2009-10-09 05:07 checkstyle
+drwxr-xr-x 2 bpdp users 4096 2009-10-09 05:07 classes
+drwxr-xr-x 3 bpdp users 4096 2009-10-09 05:07 src
+[bpdp@bpdp-arch bab2]$
